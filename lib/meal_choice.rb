@@ -3,7 +3,7 @@ def meal_choice(veg1 = "broccoli", veg2 = "macaroni", protein = "tofu")
   p "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 
-meal_choice
+puts meal_choice
 
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
